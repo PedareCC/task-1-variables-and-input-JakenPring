@@ -2,7 +2,7 @@
 
 #Step 1: We need to store the distance to mars in kilometers in a variable named 'distance_to_mars.' This should be input as a float.
 
-distance_to_mars = 
+distance_to_mars = 54.6
 speed_kmph = 1000          # the average speed of a rocket in kilometers per hour
 
 
